@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <div>
 
-            <footer className='bg-black'>
+            <footer className='bg-black text-center'>
                    {/* section6 */}
             <div className='bg-[#f6f7fb] '>
             <div className='text-center mt-10'>
@@ -66,7 +66,7 @@ export default function Footer() {
                 
             </footer>
             <div className='bg-gray-900 py-4'>
-                    <p className='text-gray-400 text-sm text-center'>Cette plateforme est réalisée par <span className='text-1xl text-white font-bold'>PROMISING TEAM</span></p>
+                    <p className='text-gray-400 text-sm text-center'>Cette plateforme est réalisée par <span className='text-1xl text-white font-bold'>NGONE</span></p>
                 </div>
         </div>
     )
